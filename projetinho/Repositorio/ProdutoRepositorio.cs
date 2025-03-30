@@ -1,6 +1,5 @@
 ﻿using projetinho.Models;
 using projetinho.Repositorio;
-
 namespace projeto1.Repositorio
 {
     public class ProdutoRepositorio
